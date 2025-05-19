@@ -18,3 +18,4 @@ i hate u
     
     getch();
 }
+i love you
