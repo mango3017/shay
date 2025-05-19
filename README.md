@@ -18,4 +18,4 @@ i hate u
     
     getch();
 }
-i love cooking
+i hate you me
